@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    
+    text-align: center;
+}
+
+.first
+{ background-color: #eaf6f6;
+    position: relative;
+   padding-top: 80px;
+   ;
+}
+h1,h2,h3{
+    color: #66bfbf
+}
+.cloud1{
+position: absolute;
+right: 380px;
+top:30px;
+}
+.cloud2{
+    position:absolute;
+    top: 250px;
+    left: 280px;
+}
+.akar{
+clip-path: circle();
+position:relative;
+top: 30px;
+   }
+   .aa{
+    position:relative;
+    top: 30px;
+   }
+   .dot{
+    position:relative;
+    top: 40px;
+    font-size: 60px;
+    color:#eaf6f6;
+   }
+.img3{
+    float: left;
+clip-path: circle();
+display: block;
+position: relative;
+left: 300px;
+
+}
+.textcode{
+text-align: justify;
+padding-left: 41%;
+padding-top: 20px;
+}
+.img4{
+ 
+padding-top: 30%;
+float:right;
+position: relative;
+right: 300px;
+display: block;
+}
+.textchillies{
+
+text-align: justify;
+clear: both;
+position: relative;
+right: 300px;
+bottom: 170px;
+}
+.message{
+    width: 40%;
+    margin: 40px auto;
+}
+.button{
+background-color: #66bfbf;
+color: white;
+border-radius: 20px;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+position: relative;
+bottom: 30px;
+}
+.footer{
+    background-color: #66BFBF;
+ padding-bottom: 50px;
+}
+
+.copy{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+a{
+    color: #006a70;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 20px;
+    margin: 10px 20px;
+    text-decoration: none;
+}
